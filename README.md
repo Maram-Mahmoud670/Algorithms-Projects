@@ -1,64 +1,53 @@
-\# Algorithms Projects
-
-
+# Algorithms Projects
 
 A collection of algorithmic problem-solving projects implemented in Python.
 
+## 📌 Projects
 
+### 1. Birthday Cake Candles
 
-\## Projects
+A Python solution to the **Birthday Cake Candles** problem.
 
+**Language:** Python
+**Solution:** `birthday-cake-candles/solution.py`
 
+---
 
-\### 1. Birthday Cake Candles
+### 2. Median of Two Sorted Arrays
 
-A solution to the Birthday Cake Candles problem.
+Two Python implementations for finding the median of two sorted arrays.
 
+**Language:** Python
 
+* **Basic Solution:** `median-of-two-sorted-arrays/basic_solution.py`
+* **Enhanced Solution:** `median-of-two-sorted-arrays/enhanced_solution.py`
 
-\- Language: Python
+---
 
-\- File: `birthday-cake-candles/solution.py`
+## 🧠 Concepts
 
+* Algorithms
+* Problem Solving
+* Searching & Sorting
+* Time Complexity
+* Python Programming
 
+## 🛠️ Technologies
 
-\### 2. Median of Two Sorted Arrays
+* Python
+* Git & GitHub
 
-Different solutions for finding the median of two sorted arrays.
-
-
-
-\- Language: Python
-
-\- Basic Solution: `median-of-two-sorted-arrays/basic\_solution.py`
-
-\- Enhanced Solution: `median-of-two-sorted-arrays/enhanced\_solution.py`
-
-
-
-\## Repository Structure
-
-
+## 📂 Repository Structure
 
 ```text
-
 Algorithms-Projects/
-
 │
-
 ├── birthday-cake-candles/
-
 │   ├── README.md
-
 │   └── solution.py
-
 │
-
 └── median-of-two-sorted-arrays/
-
-&#x20;   ├── README.md
-
-&#x20;   ├── basic\_solution.py
-
-&#x20;   └── enhanced\_solution.py
-
+    ├── README.md
+    ├── basic_solution.py
+    └── enhanced_solution.py
+```
